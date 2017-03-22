@@ -65,7 +65,7 @@ for(int i = 1; i < count; i++){
         max = numbers[i];
     }
 }
-    System.out.println("Максимальный элемент массива: " + max);
+    System.out.println("Максимальный элемент в массиве: " + max);
 }
 
 public void getMin(){
@@ -77,7 +77,7 @@ for(int i = 1; i < count; i++){
         min = numbers[i];
     }
 }
-    System.out.println("Минимальный элемент массива: " + min);
+    System.out.println("Минимальный элемент в массиве: " + min);
 }
 }
 
