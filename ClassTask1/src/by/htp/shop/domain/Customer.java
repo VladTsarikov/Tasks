@@ -1,3 +1,4 @@
+package by.htp.shop.domain;
 
 public class Customer   {
 

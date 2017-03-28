@@ -1,4 +1,8 @@
+package by.htp.shop.launch;
 import java.util.Arrays;
+
+import by.htp.shop.domain.Customer;
+import by.htp.shop.domain.Shop;
 
 
 public class Test {
